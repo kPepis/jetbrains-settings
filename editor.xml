@@ -4,6 +4,9 @@
     <option name="FONT_FAMILY" value="Operator Mono Lig Medium" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="0" chromeUpdateApp="true" chromeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
   </component>
