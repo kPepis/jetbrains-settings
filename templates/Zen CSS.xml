@@ -1,0 +1,8 @@
+<templateSet group="Zen CSS">
+  <template name="b" value="bottom: $END$;" description="bottom:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="bb" value="border-bottom: $END$;" description="border-bottom:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
