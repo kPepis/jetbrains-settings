@@ -2,6 +2,8 @@
   <component name="PowerModeII">
     <option name="customBamImageFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2\bin" />
     <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2\bin" />
+    <option name="flamesEnabled" value="false" />
+    <option name="shakeEnabled" value="false" />
     <option name="soundsFolder" value="C:\Program Files\JetBrains\WebStorm 2018.2\bin" />
   </component>
 </application>
