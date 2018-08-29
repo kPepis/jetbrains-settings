@@ -4,6 +4,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/event-emitter" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/events" type="javaScript">
       <CLASSES />
       <SOURCES />
