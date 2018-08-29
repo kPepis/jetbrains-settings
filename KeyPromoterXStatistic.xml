@@ -313,27 +313,11 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Step Into">
-        <Item>
-          <IdeaActionID>StepInto</IdeaActionID>
-          <ShortCut>'F7'</ShortCut>
-          <Description>Step Into</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Step Out">
         <Item>
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Step Over">
-        <Item>
-          <IdeaActionID>StepOver</IdeaActionID>
-          <ShortCut>'F8'</ShortCut>
-          <Description>Step Over</Description>
           <Count>6</Count>
         </Item>
       </Statistic>
@@ -457,6 +441,30 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '11.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '11.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
