@@ -1,4 +1,7 @@
 <templateSet group="Zen HTML">
+  <template name="c" value="&lt;!-- $END$ --&gt;" description="&lt;!-- --&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="script:src" value="&lt;script src=&quot;$END$&quot;&gt;&lt;/script&gt;" description="&lt;script src=&quot;...&quot;&gt;...&lt;/script&gt;" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSX_EXPRESSION" value="true" />
