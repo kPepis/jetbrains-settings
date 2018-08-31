@@ -467,6 +467,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug '35.html'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <Description>Debug '35.html'</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
