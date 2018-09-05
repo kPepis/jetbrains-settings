@@ -28,6 +28,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/yargs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
