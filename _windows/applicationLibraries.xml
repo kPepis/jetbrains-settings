@@ -1,26 +1,10 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/dom-inputevent" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/domready" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/event-emitter" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/events" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/expect" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jest" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
