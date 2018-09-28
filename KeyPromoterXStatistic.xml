@@ -518,7 +518,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -553,6 +553,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -567,6 +575,12 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'app.js'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Details">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowDetailsAction</IdeaActionID>
+          <Description>Show Details</Description>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
