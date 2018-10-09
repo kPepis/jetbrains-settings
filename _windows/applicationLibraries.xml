@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="#!particles" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.jsdelivr.com_#!particles.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.jsdelivr.com_#!particles.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="@types/expect" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -45,10 +56,12 @@
     <library name="particles" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_particles.js@2.0.0_particles.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_particles.js_2.0.0_particles.min.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_particles.js@2.0.0_particles.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_particles.js_2.0.0_particles.min.js" />
       </CLASSES>
       <SOURCES />

@@ -145,14 +145,6 @@
           <Count>9</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Delete...">
-        <Item>
-          <IdeaActionID>$Delete</IdeaActionID>
-          <ShortCut>'Delete'</ShortCut>
-          <Description>Delete...</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Directory Path">
         <Item>
           <IdeaActionID>ShowFilePath</IdeaActionID>
@@ -326,7 +318,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -631,6 +623,14 @@
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <Description>Debug '35.html'</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
