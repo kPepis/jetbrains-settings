@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare Files">
@@ -609,14 +609,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Update Project...">
-        <Item>
-          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
-          <ShortCut>'Ctrl+T'</ShortCut>
-          <Description>Update Project...</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="VCS Operations Popup...">
         <Item>
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
@@ -725,6 +717,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '11.js'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
