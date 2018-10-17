@@ -137,14 +137,6 @@
           <Count>14</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'signup.html'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'signup.html'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'test.js'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -655,6 +647,14 @@
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <Description>Debug '35.html'</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'signup.html'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'signup.html'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
