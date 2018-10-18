@@ -33,14 +33,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Commit...">
-        <Item>
-          <IdeaActionID>CheckinProject</IdeaActionID>
-          <ShortCut>'Ctrl+K'</ShortCut>
-          <Description>Commit...</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Compare Files">
         <Item>
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
@@ -135,14 +127,6 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'index.html'</Description>
           <Count>14</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'signup.html'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'signup.html'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'test.js'">
@@ -617,14 +601,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Update Project...">
-        <Item>
-          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
-          <ShortCut>'Ctrl+T'</ShortCut>
-          <Description>Update Project...</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="VCS Operations Popup...">
         <Item>
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
@@ -643,6 +619,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Relative Path">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -655,6 +639,14 @@
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
           <Description>Debug '35.html'</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'signup.html'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'signup.html'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -725,6 +717,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop '11.js'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
