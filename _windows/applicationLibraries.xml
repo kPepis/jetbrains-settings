@@ -14,6 +14,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/ioredis" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mustache" type="javaScript">
       <CLASSES />
       <SOURCES />
