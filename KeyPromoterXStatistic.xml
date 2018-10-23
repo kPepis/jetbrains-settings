@@ -297,14 +297,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Project">
-        <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'Alt+1'</ShortCut>
-          <Description>Project</Description>
-          <Count>43</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Push...">
         <Item>
           <IdeaActionID>Vcs.Push</IdeaActionID>
@@ -663,6 +655,14 @@
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
