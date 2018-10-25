@@ -22,6 +22,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/jsonwebtoken" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mustache" type="javaScript">
       <CLASSES />
       <SOURCES />
