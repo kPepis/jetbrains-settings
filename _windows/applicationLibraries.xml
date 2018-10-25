@@ -6,6 +6,10 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="@types/bcryptjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/expect" type="javaScript">
       <CLASSES />
       <SOURCES />
