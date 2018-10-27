@@ -10,6 +10,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/cookies" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/expect" type="javaScript">
       <CLASSES />
       <SOURCES />
