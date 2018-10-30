@@ -537,14 +537,6 @@
           <Count>32</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'Ctrl+F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Type Declaration">
         <Item>
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
@@ -725,6 +717,14 @@
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
