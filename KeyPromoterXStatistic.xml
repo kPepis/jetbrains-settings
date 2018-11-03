@@ -521,22 +521,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="TODO">
-        <Item>
-          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
-          <ShortCut>'Alt+6'</ShortCut>
-          <Description>TODO</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>32</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Type Declaration">
         <Item>
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
@@ -717,6 +701,22 @@
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
