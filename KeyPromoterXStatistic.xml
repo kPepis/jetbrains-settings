@@ -137,14 +137,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>15</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Delete">
         <Item>
           <IdeaActionID>FileChooser.Delete</IdeaActionID>
@@ -615,6 +607,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'signup.html'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
