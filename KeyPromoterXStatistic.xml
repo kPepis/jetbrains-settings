@@ -49,22 +49,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Copy">
-        <Item>
-          <IdeaActionID>$Copy</IdeaActionID>
-          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
-          <Description>Copy</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Copy Path">
-        <Item>
-          <IdeaActionID>CopyPaths</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+C'</ShortCut>
-          <Description>Copy Path</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -318,7 +302,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -587,6 +571,22 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Relative Path">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -623,6 +623,18 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Directory">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <Description>Directory</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="File">
+        <Item>
+          <IdeaActionID>NewFile</IdeaActionID>
+          <Description>File</Description>
         </Item>
       </Statistic>
       <Statistic Action="Find">
