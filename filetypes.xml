@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="4-1" type="JavaScript" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
