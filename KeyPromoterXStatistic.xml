@@ -571,6 +571,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="About">
+        <Item>
+          <IdeaActionID>About</IdeaActionID>
+          <Description>About</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Back">
         <Item>
           <IdeaActionID>Back</IdeaActionID>
