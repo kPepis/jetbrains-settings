@@ -4,7 +4,7 @@
     <property name="created">2019-01-29T15:34:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-31T14:26:00</property>
+    <property name="modified">2019-02-06T15:51:16</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -55,6 +55,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="19181a" />
     <option name="NOT_CHANGED" value="939393" />
     <option name="QUESTION_HINT" value="403e41" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="292929" />
     <option name="RIGHT_MARGIN_COLOR" value="59575a" />
     <option name="SELECTED_INDENT_GUIDE" value="78dce8" />
     <option name="SELECTED_TEARLINE_COLOR" value="78dce8" />
@@ -1038,7 +1039,7 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
-        <option name="BACKGROUND" value="221f22" />
+        <option name="BACKGROUND" value="80cbc4" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
