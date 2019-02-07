@@ -3,6 +3,9 @@
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Operator Mono Lig Medium" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
