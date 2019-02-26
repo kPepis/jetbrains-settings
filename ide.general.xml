@@ -15,5 +15,6 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="suppress.focus.stealing" value="false" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
