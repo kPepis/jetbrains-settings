@@ -1,4 +1,8 @@
 <application>
+  <component name="MaterialDDLCThemeConfig">
+    <option name="userId" value="415374ab:169dafac212:-8000" />
+    <option name="version" value="3.1.2" />
+  </component>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="darkTitleBar" value="true" />
