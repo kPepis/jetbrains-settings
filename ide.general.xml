@@ -16,5 +16,6 @@
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="suppress.focus.stealing" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="ide.tree.ui.experimental" value="false" />
   </component>
 </application>
